@@ -1,0 +1,3 @@
+Python: 2.7 or higher
+Pip: 19.03
+Neo4j driver: 1.7.2

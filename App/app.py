@@ -1,4 +1,4 @@
-#Our database is formed from all the users of wikipedia and the relationships represent which user edited the page of another user
+#Our database is formed from all the users of wikipedia whose relationships represent which user edited the page of another user
 
 from neo4j import GraphDatabase
 
